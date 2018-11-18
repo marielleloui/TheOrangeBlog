@@ -61,3 +61,13 @@ h1, h2, h3, h4 {
 .date-list {
     color: #828282;
 }
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+.post a:hover, .post a:focus {
+    color: #ec9b0a;
+    opacity: 0.75;
+    text-decoration: none; 
+}
