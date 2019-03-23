@@ -71,3 +71,7 @@ h1, h2, h3, h4 {
     opacity: 0.75;
     text-decoration: none; 
 }
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    float: left;
+}
